@@ -21,8 +21,7 @@ import static org.junit.Assert.*;
  */
 public class StringUtilsTest {
     
-    public StringUtilsTest() {
-    }
+    
     
     @BeforeClass
     public static void setUpClass() {
