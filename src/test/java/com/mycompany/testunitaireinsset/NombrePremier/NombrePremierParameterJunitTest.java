@@ -20,6 +20,7 @@ import org.junit.runner.RunWith;
 public class NombrePremierParameterJunitTest {
 
     public NombrePremierParameterJunitTest() {
+        
     }
 
     //Il ne reste plus qu’à fournir les paramètres à notre méthode. JUnitParams propose plusieurs manières de faire : directement par annotation,
